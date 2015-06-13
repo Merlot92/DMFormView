@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../DMFormView/DMFormView.h">
+   </FileRef>
+   <FileRef
+      location = "group:../DMFormView/DMFormView.m">
+   </FileRef>
+   <FileRef
+      location = "self:DMFormViewDemo.xcodeproj">
+   </FileRef>
+</Workspace>
